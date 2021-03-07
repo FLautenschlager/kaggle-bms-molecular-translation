@@ -79,7 +79,11 @@ docs/_build/
 target/
 
 # Jupyter Notebook
+<<<<<<< HEAD
 Notebooks/.ipynb_checkpoints
+=======
+.ipynb_checkpoints
+>>>>>>> fea3abe98feb0b606d6dd46508ca3aeec2bf486d
 
 # IPython
 profile_default/
