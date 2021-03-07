@@ -1,6 +1,7 @@
 # Repo-specific files
 .idea/
 data/
+venv_tf_arm
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
