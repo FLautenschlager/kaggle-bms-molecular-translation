@@ -17,3 +17,4 @@ kaggle competitions download bms-molecular-translation -f /data/bms.zip
 
 7z x /data/bms.zip -o/data/
 
+tmux new-session -s jupyter_session "jupyter lab ."
