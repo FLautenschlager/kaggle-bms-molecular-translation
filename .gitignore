@@ -1,4 +1,5 @@
 # Repo-specific files
+checkpoints/
 .idea/
 data/
 venv_tf_arm
